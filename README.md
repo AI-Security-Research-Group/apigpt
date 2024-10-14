@@ -1,6 +1,6 @@
-# API Bee 🐝
+# API GPT 🐝
 
-API Bee is your co-pilot for API security testing, helping you brainstorm and manage the test cases.
+API GPT is your co-pilot for API security testing, helping you brainstorm and ask anything to API.
 
 ## Screenshot
 <img width="850" alt="Screenshot 2024-10-07 at 5 10 21 PM" src="https://github.com/user-attachments/assets/a07cce45-1ae9-479f-96d7-6b9b345607e4">

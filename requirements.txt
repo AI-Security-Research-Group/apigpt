@@ -1,0 +1,7 @@
+streamlit
+mitmproxy
+sqlite3
+langchain
+ollama
+python-dotenv
+requests

@@ -53,6 +53,10 @@ API GPT is your co-pilot for API security testing, helping you brainstorm and as
 4. Make API calls through the configured proxy
 5. Analyze captured APIs and view results in the main interface
 
+## Integrate [Contexi](https://github.com/AI-Security-Research-Group/contexi) to use GET API Code feature
+1. Run [context](https://github.com/AI-Security-Research-Group/contexi) API interface.
+2. Use context Endpoint in code analysis configuration.
+
 ## Acknowledgments
 
 - Streamlit for the UI framework
